@@ -1,10 +1,10 @@
 ### Ordered (Numbered) Lists
 Symbols: a number followed by a period.
 
-2. line 1
-4. Line 2
-  99. sub-line 2
-1. Line 3  
+99. line 1.
+2. Line 2.
+  2 sub-line 2.
+3. Line 3.  
 
 # My Markdown Cheatsheet
 Fills in some serious gaps in:
@@ -17,7 +17,7 @@ Fills in some serious gaps in:
 - Underline text.
   -  Only **bold**, *italics* and ~~strikethrough~~ is supported).
 
-### Unordered Lists and Sub-Lists
+### Unordered Lists and Sub-Lists / Nested Lists
 Symbols:  `-`, `+`  or `*`
 
 **Sublist formating.**   Indent 2 spaces
@@ -27,7 +27,7 @@ Symbols: a number followed by a period.
 
 2.  line 1
 4.  Line 2
-  99.  sub-line 2
+  4.  sub-line 2
 1.  Line 3  
 
 ---
